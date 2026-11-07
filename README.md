@@ -93,10 +93,6 @@ Suggested issue workflow: **Backlog → Ready → In Progress → Review / Valid
 
 A task is complete when its acceptance criteria are met and the evidence (configuration, code, logs, benchmarks, or documentation) is committed or linked.
 
-## Getting started
-
-This repository is being initialized. Start with **Phase 1**, beginning with a small, temporary GPU VM and a verified CUDA workload. Setup commands, infrastructure modules, and benchmark scripts will be added as they are implemented and tested.
-
 Do **not** commit cloud credentials, service-account keys, tokens, or other secrets. Review quotas, billing, and IAM before running cloud examples.
 
 ## References
